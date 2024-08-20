@@ -1,4 +1,6 @@
-# Proyecto 02 - Machine Learning
+# Human Activity Recognition - Proyecto 2
+
+Informe: [Project report](informe.pdf)
 
 ## Integrantes
 
